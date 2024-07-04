@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iww",
+    "w  ",
+    "w  "
+  ],
+  "key": {
+    "i": {
+      "type": "forge:ore_dict",
+      "ore": "ingotUmbrium"
+    },
+    "w": {
+      "type": "forge:ore_dict",
+      "ore": "plankWood"
+    }
+  },
+  "result": {
+    "item": "spartandefiled:boomerang_umbrium"
+  },
+  "conditions": [
+    {
+      "type": "spartanweaponry:item_exists",
+      "item": "spartandefiled:boomerang_umbrium"
+    }
+  ]
+}

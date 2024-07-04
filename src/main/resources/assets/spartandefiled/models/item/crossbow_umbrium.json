@@ -1,0 +1,7 @@
+{"textures": {"layer0": "spartandefiled:items/crossbow_umbrium_standby"}, 
+"overrides": [{"predicate": {"pulling": 1}, "model": "spartandefiled:item/crossbow_umbrium_pulling_0"}, 
+{"predicate": {"pull": 0.65, "pulling": 1}, "model": "spartandefiled:item/crossbow_umbrium_pulling_1"}, 
+{"predicate": {"pull": 0.9, "pulling": 1}, "model": "spartandefiled:item/crossbow_umbrium_pulling_2"}, 
+{"predicate": {"pull": 1.0, "pulling": 0}, "model": "spartandefiled:item/crossbow_umbrium_loaded"}, 
+{"predicate": {"pull": 1.0, "pulling": 1}, "model": "spartandefiled:item/crossbow_umbrium_firing"}], 
+"parent": "spartanweaponry:item/crossbow_wood"}

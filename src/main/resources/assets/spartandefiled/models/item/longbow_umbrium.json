@@ -1,0 +1,6 @@
+{"textures": {"layer0": "spartandefiled:items/longbow_umbrium_standby"}, 
+"overrides": [{"predicate": {"pulling": 1}, 
+"model": "spartandefiled:item/longbow_umbrium_pulling_0"}, {"predicate": {"pull": 0.65, "pulling": 1}, 
+"model": "spartandefiled:item/longbow_umbrium_pulling_1"}, {"predicate": {"pull": 0.9, "pulling": 1}, 
+"model": "spartandefiled:item/longbow_umbrium_pulling_2"}], 
+"parent": "spartanweaponry:item/longbow_wood"}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spartandefiled",
+  "name": "Spartan Defiled",
+  "description": "Add Spartan Version on Defiled Lands Weapons",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://curseforge.com/minecraft/mc-mods/spartan-defiled",
+  "updateUrl": "",
+  "authorList": ["Samlegamer"],
+  "credits": "Kovak",
+  "logoFile": "logo_curse.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

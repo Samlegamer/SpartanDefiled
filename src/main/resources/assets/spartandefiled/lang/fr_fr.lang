@@ -1,0 +1,31 @@
+#Items
+item.spartandefiled:ingot_custom.name=Lingot %s
+item.spartandefiled:dagger_custom.name=Dague en %s
+item.spartandefiled:parrying_dagger_custom.name=Dague de Parade en %s
+item.spartandefiled:longsword_custom.name=Épée longue en %s
+item.spartandefiled:katana_custom.name=Katana en %s
+item.spartandefiled:saber_custom.name=Sabre en %s
+item.spartandefiled:rapier_custom.name=Rapière en %s
+item.spartandefiled:greatsword_custom.name=Grande épée en %s
+item.spartandefiled:hammer_custom.name=Marteau en %s
+item.spartandefiled:warhammer_custom.name=Marteau-de-guerre en %s
+item.spartandefiled:spear_custom.name=Lance en %s
+item.spartandefiled:halberd_custom.name=Hallbarde en %s
+item.spartandefiled:pike_custom.name=Pique en %s
+item.spartandefiled:lance_custom.name=Lance de Joute en %s
+item.spartandefiled:longbow_custom.name=Arc-Long renforcé en %s
+item.spartandefiled:crossbow_custom.name=Arbalète renforcée en %s
+item.spartandefiled:throwing_knife_custom.name=Couteau de lancer en %s
+item.spartandefiled:throwing_axe_custom.name=Hache-à-lancer en %s
+item.spartandefiled:javelin_custom.name=Javelot en %s
+item.spartandefiled:glaive_custom.name=Glaive en %s
+item.spartandefiled.quarterstaff_custom.name=Bâton-court en %s
+item.spartanweaponry:boomerang_custom.name=Boomerang en %s 
+item.spartanweaponry:battleaxe_custom.name=Hache-de-guerre en %s 
+item.spartanweaponry:mace_custom.name=Massue à brides en %s 
+
+#Materials
+material.spartandefiled:umbrium=Umbrium
+
+
+

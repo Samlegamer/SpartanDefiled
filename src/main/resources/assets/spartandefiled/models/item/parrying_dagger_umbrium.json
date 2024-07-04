@@ -1,0 +1,14 @@
+{
+    "parent":"spartanweaponry:item/parrying_dagger_wood",
+    "textures": {
+        "layer0":"spartandefiled:items/parrying_dagger_umbrium"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "spartandefiled:item/parrying_dagger_umbrium_blocking"
+        }
+    ]
+}
