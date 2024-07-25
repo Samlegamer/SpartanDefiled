@@ -66,7 +66,8 @@ public class SDItemsRegistry
 		createWeaponry(ConfigHandler.disableJavelin, false, item_set, SpartanWeaponryAPI.createJavelin(material, SpartanDefiled.MODID, CreativeTabDL.instance), "javelin");
 		createWeaponry(ConfigHandler.disableGlaive, false, item_set, SpartanWeaponryAPI.createGlaive(material, SpartanDefiled.MODID, CreativeTabDL.instance), "glaive");
 		createWeaponry(ConfigHandler.disableQuarterstaff, false, item_set, SpartanWeaponryAPI.createQuarterstaff(material, SpartanDefiled.MODID, CreativeTabDL.instance), "quarterstaff");
-										
+		createWeaponry(ConfigHandler.disableScythe, false, item_set, SpartanWeaponryAPI.createScythe(material, SpartanDefiled.MODID, CreativeTabDL.instance), "scythe");
+
 		for (Item it : item_set)
 		{
 	        event.getRegistry().register(it);

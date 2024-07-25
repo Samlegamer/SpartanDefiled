@@ -20,9 +20,10 @@ item.spartandefiled:throwing_axe_custom.name=Hache-à-lancer en %s
 item.spartandefiled:javelin_custom.name=Javelot en %s
 item.spartandefiled:glaive_custom.name=Glaive en %s
 item.spartandefiled.quarterstaff_custom.name=Bâton-court en %s
-item.spartanweaponry:boomerang_custom.name=Boomerang en %s 
-item.spartanweaponry:battleaxe_custom.name=Hache-de-guerre en %s 
-item.spartanweaponry:mace_custom.name=Massue à brides en %s 
+item.spartandefiled:scythe_custom.name=Faux en %s
+item.spartanweaponry:boomerang_custom.name=Boomerang en %s
+item.spartanweaponry:battleaxe_custom.name=Hache-de-guerre en %s
+item.spartanweaponry:mace_custom.name=Massue à brides en %s
 
 #Materials
 material.spartandefiled:umbrium=Umbrium

@@ -20,6 +20,7 @@ item.spartandefiled:throwing_axe_custom.name=%s Throwing Axe
 item.spartandefiled:javelin_custom.name=%s Javelin
 item.spartandefiled:glaive_custom.name=%s Glaive
 item.spartandefiled.quarterstaff_custom.name=%s Quarterstaff
+item.spartandefiled:scythe_custom.name=%s Scythe
 
 #Materials
 material.spartandefiled:umbrium=Umbrium
